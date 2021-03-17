@@ -1,6 +1,12 @@
 p {
     color: crimson;
-    background: darkgray;
+    background: aqua;
     font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    color: aqua;
+    text-shadow: 2px 2px 4px crimson;
     text-align: center;
 }
