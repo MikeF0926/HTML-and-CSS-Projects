@@ -371,6 +371,10 @@ section {
     overflow: auto;
     background-color: black;
   }
+
+  .modal img {
+      max-width: 100%;
+  }
   
   /* Modal Content */
   .modal-content {
