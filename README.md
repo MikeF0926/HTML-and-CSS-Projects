@@ -5,9 +5,9 @@ Projects that I have created using HTML and CSS.
 
 ### Projects
 
-* Dog Resort Site
-* Batman Trilogy Site
-* About Me/Contact Me Site
+* [Dog Resort Site](https://github.com/MikeF0926/HTML-and-CSS-Projects/tree/main/One-Page%20Website)
+* [Batman Trilogy Site](https://github.com/MikeF0926/HTML-and-CSS-Projects/tree/main/bootstrap4_project)
+* [About Me/Contact Me Site](https://github.com/MikeF0926/HTML-and-CSS-Projects/tree/main/Portfolio_Project)
               
 #### Dog Resort
 
